@@ -4812,8 +4812,12 @@ body .headline {
 .cmsmasters_slider_project .cmsmasters_slider_project_footer > span:first-child {
   margin-left: 0;
 }
+.cmsmasters_slider_project_cont_info.entry-meta{
+  display: none !important;
+}
 .cmsmasters_slider_project .cmsmasters_slider_project_more_info_wrap {
-  display: table;
+  /* display: table; */
+  display: none;
   width: 100%;
   margin-top: 15px;
 }
