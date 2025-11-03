@@ -10,7 +10,12 @@
 	border: 0;
 	word-wrap: normal !important;
 }
-
+img {
+    object-fit: cover;
+}
+video{
+	width: 100%;
+}
 .wpcf7 .hidden-fields-container {
 	display: none;
 }
@@ -173,4 +178,73 @@ form.submitting .wpcf7-spinner {
 
 .wpcf7-reflection > output[hidden] {
 	display: none;
+}
+
+
+
+h2.cmsmasters_slider_project_title.entry-title {
+    font-size: 25px;
+    line-height: 27px;
+}
+
+
+
+
+
+#slider-2-slide-4-layer-2 {
+  font-size: clamp(40px, 6vw, 90px) !important;
+  white-space: normal !important;
+  line-height: 1.2 !important;
+  width: 90% !important;
+  display: inline !important;
+  text-align: center !important;
+  left: 0% !important;
+  transform: translateX(-50%) !important;
+}
+
+
+.aligncenter p {
+  font-family: "Playfair Display", "Georgia", serif;  /* elegant serif look */
+  font-style: italic;
+  font-size: 26px;
+  color: #c19a42;       /* subtle gold tone */
+  text-align: center;
+  margin-top: 25px;     /* space above so it floats nicely */
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+
+/* Remove hover overlay, links, and icons */
+.cmsmasters_img_rollover,
+.cmsmasters_img_rollover a,
+.cmsmasters_slider_post_read_more_wrap,
+.cmsmasters_slider_project_more_info_wrap,
+.cmsmasters_slider_project_short_info {
+  display: none !important;
+  pointer-events: none !important;
+}
+
+/* Make sure images stay visible at full brightness */
+.project_img_wrap img {
+  opacity: 1 !important;
+  transform: none !important;
+  filter: none !important;
+}
+
+/* Prevent any hover darkening */
+.cmsmasters_img_rollover_wrap:hover img {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+
+.brands-grid img {
+  height: 70px;
+  width: auto;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+.brands-grid img:hover {
+  opacity: 1;
 }

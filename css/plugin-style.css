@@ -608,6 +608,7 @@ fieldset .form-row.place-order {
   overflow: hidden;
 }
 .cmsmasters_product .cmsmasters_product_img img {
+  aspect-ratio: 1.5 / 1;
   width: 100%;
 }
 .cmsmasters_product .cmsmasters_product_img img:nth-child(2) {

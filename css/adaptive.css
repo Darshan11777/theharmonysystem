@@ -944,7 +944,7 @@
   #header .header_mid .logo_wrap {
     width: auto;
     float: none;
-    margin: 0 auto 20px;
+    margin: 0 auto 8px;
     text-align: center;
   }
   #header .header_mid .logo_wrap:after {
@@ -1285,7 +1285,7 @@
     padding-top: 46px;
   }
   .cmsmasters_posts_slider .cmsmasters_slider_post {
-    width: 320px;
+    /* width: 320px; */
     padding-bottom: 40px;
     margin: 0 auto;
   }
@@ -1343,7 +1343,7 @@
     margin: 0 5px;
   }
   .cmsmasters_quotes_slider_type_center .cmsmasters_quote_content {
-    padding: 35px 50px;
+    padding: 0px 0px;
   }
   .commentlist .children {
     padding: 0 0 0 10px;
