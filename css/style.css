@@ -133,7 +133,7 @@ canvas {
   vertical-align: baseline;
 }
 video {
-  background-color: #000000;
+  background-color: #282828;
 }
 template,
 [hidden],
@@ -381,7 +381,7 @@ hr {
   box-sizing: content-box;
 }
 mark {
-  color: #000000;
+  color: #677173;
 }
 .gallery-caption,
 .sticky,

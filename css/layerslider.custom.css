@@ -33,7 +33,7 @@ You can type here custom CSS code, which will be loaded both on your admin and f
 .cmsms_layer_button.book:hover {
 	color:#ffffff !important;
 	background-color:#211f1f !important;
-	border-color:#000000 !important;
+	border-color:#677173 !important;
 }
 .cmsms_layer_button.booklearn{
 	-webkit-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
@@ -45,5 +45,5 @@ You can type here custom CSS code, which will be loaded both on your admin and f
 .cmsms_layer_button.booklearn:hover {
 	color:#ffffff!important;
 	background-color:#211f1f!important;
-	border-color:#000000!important;
+	border-color:#677173!important;
 }

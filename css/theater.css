@@ -1955,7 +1955,7 @@
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > a,
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > ul li a:before,
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap_archive > li a:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	.headline_outer,
@@ -1969,7 +1969,7 @@
 	.cmsmasters_quotes_slider_type_center .owl-buttons > div:hover:after,
 	.cmsmasters_hover_slider .cmsmasters_hover_slider_thumbs a:before,
 	.cmsmasters_mailpoet_form .parsley-errors-list {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	.cmsmasters_project_puzzle .project_outer .project_inner {
@@ -2829,7 +2829,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_icon_box.cmsmasters_icon_box_left_top:before,
 	html .cmsmasters_color_scheme_footer .cmsmasters_icon_box.cmsmasters_icon_box_left:before,
 	html .cmsmasters_color_scheme_footer .cmsmasters_icon_box.cmsmasters_icon_box_top:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .wp-caption,
@@ -2864,19 +2864,19 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters-form-builder .check_parent input[type=checkbox] + label:before, 
 	html .cmsmasters_color_scheme_footer .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=radio] + span.wpcf7-list-item-label:before, 
 	html .cmsmasters_color_scheme_footer .cmsmasters-form-builder .check_parent input[type=radio] + label:before {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .post.cmsmasters_post_puzzle .puzzle_post_content_wrapper:before {
-		border-color:#000000;
+		border-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .search_wrap .search_bar_wrap .search_field input::-webkit-input-placeholder {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .search_wrap .search_bar_wrap .search_field input:-moz-placeholder {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer #header .search_wrap .search_bar_wrap .search_field input {
@@ -3043,26 +3043,26 @@
 	/* Start Custom Rules */
 	html .cmsmasters_color_scheme_footer ::selection {
 		background:#b49761;
-		color:#000000;;
+		color:#677173;;
 	}
 	
 	html .cmsmasters_color_scheme_footer ::-moz-selection {
 		background:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 		.cmsmasters_color_scheme_footer.cmsmasters_row_top_zigzag:before, 
 		.cmsmasters_color_scheme_footer.cmsmasters_row_bot_zigzag:after {
-			background-image: -webkit-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-webkit-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -moz-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-moz-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -ms-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-ms-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -o-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-o-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: linear-gradient(315deg, #000000 25%, transparent 25%), 
-					linear-gradient(45deg, #000000 25%, transparent 25%);
+			background-image: -webkit-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-webkit-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -moz-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-moz-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -ms-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-ms-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -o-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-o-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: linear-gradient(315deg, #677173 25%, transparent 25%), 
+					linear-gradient(45deg, #677173 25%, transparent 25%);
 		}
 		
 	/* Finish Custom Rules */
@@ -3074,25 +3074,25 @@
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_hover {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_hover:hover {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bd_underline {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#000000;
-		background-color:#000000;
+		border-color:#677173;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
@@ -3104,7 +3104,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_diag {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
@@ -3116,8 +3116,8 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
 		border-color:#b49761;
-		background-color:#000000;
-		color:#000000;
+		background-color:#677173;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -3133,12 +3133,12 @@
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_shadow {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_shadow:hover {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -3146,24 +3146,24 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider:hover {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#000000;
+		border-right-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:before {
@@ -3171,17 +3171,17 @@
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
@@ -3192,7 +3192,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_right {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
@@ -3200,7 +3200,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -3210,7 +3210,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
@@ -3219,7 +3219,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 
 /***************** Finish Footer Button Color Scheme Rules ******************/
@@ -4443,7 +4443,7 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_icon_box.cmsmasters_icon_box_left_top:before,
 	html .cmsmasters_color_scheme_second .cmsmasters_icon_box.cmsmasters_icon_box_left:before,
 	html .cmsmasters_color_scheme_second .cmsmasters_icon_box.cmsmasters_icon_box_top:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .wp-caption,
@@ -4478,19 +4478,19 @@
 	html .cmsmasters_color_scheme_second .cmsmasters-form-builder .check_parent input[type=checkbox] + label:before, 
 	html .cmsmasters_color_scheme_second .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=radio] + span.wpcf7-list-item-label:before, 
 	html .cmsmasters_color_scheme_second .cmsmasters-form-builder .check_parent input[type=radio] + label:before {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .post.cmsmasters_post_puzzle .puzzle_post_content_wrapper:before {
-		border-color:#000000;
+		border-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .search_wrap .search_bar_wrap .search_field input::-webkit-input-placeholder {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .search_wrap .search_bar_wrap .search_field input:-moz-placeholder {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second #header .search_wrap .search_bar_wrap .search_field input {
@@ -4657,26 +4657,26 @@
 	/* Start Custom Rules */
 	html .cmsmasters_color_scheme_second ::selection {
 		background:rgba(255,255,255,0.4);
-		color:#000000;;
+		color:#677173;;
 	}
 	
 	html .cmsmasters_color_scheme_second ::-moz-selection {
 		background:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 		.cmsmasters_color_scheme_second.cmsmasters_row_top_zigzag:before, 
 		.cmsmasters_color_scheme_second.cmsmasters_row_bot_zigzag:after {
-			background-image: -webkit-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-webkit-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -moz-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-moz-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -ms-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-ms-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -o-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-o-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: linear-gradient(315deg, #000000 25%, transparent 25%), 
-					linear-gradient(45deg, #000000 25%, transparent 25%);
+			background-image: -webkit-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-webkit-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -moz-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-moz-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -ms-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-ms-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -o-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-o-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: linear-gradient(315deg, #677173 25%, transparent 25%), 
+					linear-gradient(45deg, #677173 25%, transparent 25%);
 		}
 		
 	/* Finish Custom Rules */
@@ -4688,25 +4688,25 @@
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bg_hover {
 		border-color:rgba(255,255,255,0.4);
-		background-color:#000000;
+		background-color:#677173;
 		color:rgba(255,255,255,0.4);
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bg_hover:hover {
 		border-color:rgba(255,255,255,0.4);
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bd_underline {
 		border-color:rgba(255,255,255,0.4);
-		background-color:#000000;
+		background-color:#677173;
 		color:rgba(255,255,255,0.4);
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#000000;
-		background-color:#000000;
+		border-color:#677173;
+		background-color:#677173;
 		color:rgba(255,255,255,0.4);
 	}
 	
@@ -4718,7 +4718,7 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bg_expand_diag {
 		border-color:rgba(255,255,255,0.4);
-		background-color:#000000;
+		background-color:#677173;
 		color:rgba(255,255,255,0.4);
 	}
 	
@@ -4730,8 +4730,8 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
 		border-color:rgba(255,255,255,0.4);
-		background-color:#000000;
-		color:#000000;
+		background-color:#677173;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -4747,12 +4747,12 @@
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_shadow {
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_shadow:hover {
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -4760,24 +4760,24 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_divider {
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_divider:hover {
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#000000;
+		border-right-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_inverse {
 		border-color:rgba(255,255,255,0.4);
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_inverse:before {
@@ -4785,17 +4785,17 @@
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
 		border-color:rgba(255,255,255,0.4);
-		background-color:#000000;
+		background-color:#677173;
 		color:rgba(255,255,255,0.4);
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
@@ -4806,7 +4806,7 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_slide_right {
 		border-color:rgba(255,255,255,0.4);
-		background-color:#000000;
+		background-color:#677173;
 		color:rgba(255,255,255,0.4);
 	}
 	
@@ -4814,7 +4814,7 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
 		border-color:rgba(255,255,255,0.4);
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -4824,7 +4824,7 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
 		border-color:rgba(255,255,255,0.4);
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
@@ -4833,7 +4833,7 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
 		border-color:rgba(255,255,255,0.4);
 		background-color:rgba(255,255,255,0.4);
-		color:#000000;
+		color:#677173;
 	}
 
 /***************** Finish Custom 2 Button Color Scheme Rules ******************/
@@ -5250,7 +5250,7 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_icon_box.cmsmasters_icon_box_left_top:before,
 	html .cmsmasters_color_scheme_third .cmsmasters_icon_box.cmsmasters_icon_box_left:before,
 	html .cmsmasters_color_scheme_third .cmsmasters_icon_box.cmsmasters_icon_box_top:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .wp-caption,
@@ -5285,19 +5285,19 @@
 	html .cmsmasters_color_scheme_third .cmsmasters-form-builder .check_parent input[type=checkbox] + label:before, 
 	html .cmsmasters_color_scheme_third .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=radio] + span.wpcf7-list-item-label:before, 
 	html .cmsmasters_color_scheme_third .cmsmasters-form-builder .check_parent input[type=radio] + label:before {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .post.cmsmasters_post_puzzle .puzzle_post_content_wrapper:before {
-		border-color:#000000;
+		border-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .search_wrap .search_bar_wrap .search_field input::-webkit-input-placeholder {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .search_wrap .search_bar_wrap .search_field input:-moz-placeholder {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third #header .search_wrap .search_bar_wrap .search_field input {
@@ -5464,26 +5464,26 @@
 	/* Start Custom Rules */
 	html .cmsmasters_color_scheme_third ::selection {
 		background:#b49761;
-		color:#000000;;
+		color:#677173;;
 	}
 	
 	html .cmsmasters_color_scheme_third ::-moz-selection {
 		background:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 		.cmsmasters_color_scheme_third.cmsmasters_row_top_zigzag:before, 
 		.cmsmasters_color_scheme_third.cmsmasters_row_bot_zigzag:after {
-			background-image: -webkit-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-webkit-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -moz-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-moz-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -ms-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-ms-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: -o-linear-gradient(135deg, #000000 25%, transparent 25%), 
-					-o-linear-gradient(45deg, #000000 25%, transparent 25%);
-			background-image: linear-gradient(315deg, #000000 25%, transparent 25%), 
-					linear-gradient(45deg, #000000 25%, transparent 25%);
+			background-image: -webkit-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-webkit-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -moz-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-moz-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -ms-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-ms-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: -o-linear-gradient(135deg, #677173 25%, transparent 25%), 
+					-o-linear-gradient(45deg, #677173 25%, transparent 25%);
+			background-image: linear-gradient(315deg, #677173 25%, transparent 25%), 
+					linear-gradient(45deg, #677173 25%, transparent 25%);
 		}
 		
 	/* Finish Custom Rules */
@@ -5495,25 +5495,25 @@
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_hover {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_hover:hover {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bd_underline {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#000000;
-		background-color:#000000;
+		border-color:#677173;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
@@ -5525,7 +5525,7 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_expand_diag {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
@@ -5537,8 +5537,8 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
 		border-color:#b49761;
-		background-color:#000000;
-		color:#000000;
+		background-color:#677173;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -5554,12 +5554,12 @@
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_shadow {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_shadow:hover {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -5567,24 +5567,24 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_divider {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_divider:hover {
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#000000;
+		border-right-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_inverse {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_inverse:before {
@@ -5592,17 +5592,17 @@
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
@@ -5613,7 +5613,7 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_slide_right {
 		border-color:#b49761;
-		background-color:#000000;
+		background-color:#677173;
 		color:#b49761;
 	}
 	
@@ -5621,7 +5621,7 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -5631,7 +5631,7 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
@@ -5640,7 +5640,7 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
 		border-color:#b49761;
 		background-color:#b49761;
-		color:#000000;
+		color:#677173;
 	}
 
 /***************** Finish Custom 3 Button Color Scheme Rules ******************/
@@ -6557,17 +6557,17 @@
 	.header_mid input[type=submit], 
 	.header_mid input[type=button], 
 	.header_mid button {
-		color:#000000;
+		color:#677173;
 	}
 	
 	.header_mid.header_mid_scroll {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	@media only screen and (max-width: 1024px) {
 		#header .header_top,
 		.header_mid {
-			background-color:#000000;
+			background-color:#677173;
 		}
 	}
 	/* Finish Header Middle Background Color on Scroll */
@@ -7143,7 +7143,7 @@
 	.editor-styles-wrapper q,
 	.editor-styles-wrapper .wp-block-freeform blockquote,
 	.editor-styles-wrapper .wp-block-freeform blockquote p {
-		color:#000000;
+		color:#677173;
 	}
 	
 	
@@ -7246,15 +7246,15 @@
 	.editor-styles-wrapper .wp-block-freeform blockquote,
 	.editor-styles-wrapper .wp-block-freeform blockquote p,
 	 .wp-block-pullquote {
-		color:#000000;
+		color:#677173;
 	}
 	
 	 .wp-block-pullquote.is-style-solid-color {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	 .wp-block-pullquote {
-		border-color:#000000;
+		border-color:#677173;
 	}
 	/* Finish Headings Color */
 	
@@ -7343,11 +7343,11 @@
 
 
 			.has-color-1-color {
-				color: #000000;
+				color: #677173;
 			}
 
 			.has-color-1-background-color {
-				background-color: #000000;
+				background-color: #677173;
 			}
 			
 			.has-color-2-color {
@@ -7436,11 +7436,11 @@
 	.cmsmasters_events_schedule .cmsmasters_event_schedule .cmsmasters_event_schedule_speaker,
 	.cmsmasters_open_event_schedule .cmsmasters_event_schedule_footer a,
 	.cmsmasters_open_event_schedule .cmsmasters_event_schedule_speaker {
-		color:#000000;
+		color:#677173;
 	}
 	
 	.cmsmasters_events_schedule .cmsmasters_events_schedule_list_date {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Headings Color */
 	
@@ -7526,12 +7526,12 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_events_schedule .cmsmasters_events_schedule_list_hall > li.current_tab a,
 	html .cmsmasters_color_scheme_footer .cmsmasters_events_schedule .cmsmasters_events_schedule_list_date > li:hover a,
 	html .cmsmasters_color_scheme_footer .cmsmasters_events_schedule .cmsmasters_events_schedule_list_date > li.current_tab a {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_events_schedule.cmsmasters_events_schedule_tabs,
 	html .cmsmasters_color_scheme_footer .cmsmasters_events_schedule .cmsmasters_event_schedule .cmsmasters_event_schedule_cont:before {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_events_schedule .cmsmasters_events_schedule_list_hall > li a,
@@ -7678,12 +7678,12 @@
 	html .cmsmasters_color_scheme_second .cmsmasters_events_schedule .cmsmasters_events_schedule_list_hall > li.current_tab a,
 	html .cmsmasters_color_scheme_second .cmsmasters_events_schedule .cmsmasters_events_schedule_list_date > li:hover a,
 	html .cmsmasters_color_scheme_second .cmsmasters_events_schedule .cmsmasters_events_schedule_list_date > li.current_tab a {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_events_schedule.cmsmasters_events_schedule_tabs,
 	html .cmsmasters_color_scheme_second .cmsmasters_events_schedule .cmsmasters_event_schedule .cmsmasters_event_schedule_cont:before {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .cmsmasters_events_schedule .cmsmasters_events_schedule_list_hall > li a,
@@ -7754,12 +7754,12 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_events_schedule .cmsmasters_events_schedule_list_hall > li.current_tab a,
 	html .cmsmasters_color_scheme_third .cmsmasters_events_schedule .cmsmasters_events_schedule_list_date > li:hover a,
 	html .cmsmasters_color_scheme_third .cmsmasters_events_schedule .cmsmasters_events_schedule_list_date > li.current_tab a {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_events_schedule.cmsmasters_events_schedule_tabs,
 	html .cmsmasters_color_scheme_third .cmsmasters_events_schedule .cmsmasters_event_schedule .cmsmasters_event_schedule_cont:before {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .cmsmasters_events_schedule .cmsmasters_events_schedule_list_hall > li a,
@@ -7990,13 +7990,13 @@
 	.widget_shopping_cart .cart_list a, 
 	.widget_shopping_cart .cart_list .quantity .amount, 
 	.widget_price_filter .price_slider_amount .price_label {
-		color:#000000;
+		color:#677173;
 	}
 	
 	.out-of-stock span, 
 	.stock span, 
 	.widget_price_filter .ui-slider-handle {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Headings Color */
 	
@@ -8239,7 +8239,7 @@
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice p a, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice p a:hover {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .shop_table .actions, 
@@ -8247,7 +8247,7 @@
 	html .cmsmasters_color_scheme_footer .woocommerce-EditAccountForm fieldset legend, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button:hover, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice .woocommerce-store-notice__dismiss-link {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Main Background Color */
 	
@@ -8699,7 +8699,7 @@
 	html .cmsmasters_color_scheme_second .woocommerce-store-notice, 
 	html .cmsmasters_color_scheme_second .woocommerce-store-notice p a, 
 	html .cmsmasters_color_scheme_second .woocommerce-store-notice p a:hover {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .shop_table .actions, 
@@ -8707,7 +8707,7 @@
 	html .cmsmasters_color_scheme_second .woocommerce-EditAccountForm fieldset legend, 
 	html .cmsmasters_color_scheme_second .cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button:hover, 
 	html .cmsmasters_color_scheme_second .woocommerce-store-notice .woocommerce-store-notice__dismiss-link {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Main Background Color */
 	
@@ -8929,7 +8929,7 @@
 	html .cmsmasters_color_scheme_third .woocommerce-store-notice, 
 	html .cmsmasters_color_scheme_third .woocommerce-store-notice p a, 
 	html .cmsmasters_color_scheme_third .woocommerce-store-notice p a:hover {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .shop_table .actions, 
@@ -8937,7 +8937,7 @@
 	html .cmsmasters_color_scheme_third .woocommerce-EditAccountForm fieldset legend, 
 	html .cmsmasters_color_scheme_third .cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button:hover, 
 	html .cmsmasters_color_scheme_third .woocommerce-store-notice .woocommerce-store-notice__dismiss-link {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Main Background Color */
 	
@@ -9422,12 +9422,12 @@
 	html .cmsmasters_tribe_events_views_v2  .tribe-events-widget.tribe-common.tribe-events.tribe-events-view--widget-events-list .tribe-events-widget-events-list__event-venue a,
 	html .cmsmasters_tribe_events_views_v2  .tribe-events-widget.tribe-common.tribe-events.tribe-events-view--widget-events-list .tribe-events-widget-events-list__event-organizer-title-wrapper,
 	html .cmsmasters_tribe_events_views_v2  .tribe-events-widget.tribe-common.tribe-events.tribe-events-view--widget-events-list .tribe-events-widget-events-list__event-organizer-title-wrapper a {
-		color:#000000;
+		color:#677173;
 	}
 
 	html .cmsmasters_tribe_events_views_v2  .tribe-events-widget.tribe-events-widget-events-month .tribe-events-calendar-month__mobile-events-icon,
 	html .cmsmasters_tribe_events_views_v2  .tribe-events-widget.tribe-events-widget-events-shortcode-month .tribe-events-calendar-month__mobile-events-icon {
-		background-color:#000000;
+		background-color:#677173;
 	}
 
 	html .cmsmasters_tribe_events_views_v2  .tribe-events-pro .tribe-events-pro-map__event-card-button:hover,
@@ -10542,12 +10542,12 @@
 	.tickera > label, 
 	.tickera-payment-gateways .tc_redirect_message, 
 	.tc_cart_widget .tc_cart_ul li {
-		color:#000000;
+		color:#677173;
 	}
 	
 	.event_tickets th, 
 	.tickera_table th {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Headings Color */
 	
@@ -10671,14 +10671,14 @@
 	
 	/* Start Main Background Color */
 	html .cmsmasters_color_scheme_footer .tc_event_bg {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_footer .event_tickets select, 
 	html .cmsmasters_color_scheme_footer .tickera_table .ticket-quantity input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]), 
 	html .cmsmasters_color_scheme_footer .event_tickets td, 
 	html .cmsmasters_color_scheme_footer .tickera_table td {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Main Background Color */
 	
@@ -10905,14 +10905,14 @@
 	
 	/* Start Main Background Color */
 	html .cmsmasters_color_scheme_second .tc_event_bg {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_second .event_tickets select, 
 	html .cmsmasters_color_scheme_second .tickera_table .ticket-quantity input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]), 
 	html .cmsmasters_color_scheme_second .event_tickets td, 
 	html .cmsmasters_color_scheme_second .tickera_table td {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Main Background Color */
 	
@@ -11022,14 +11022,14 @@
 	
 	/* Start Main Background Color */
 	html .cmsmasters_color_scheme_third .tc_event_bg {
-		color:#000000;
+		color:#677173;
 	}
 	
 	html .cmsmasters_color_scheme_third .event_tickets select, 
 	html .cmsmasters_color_scheme_third .tickera_table .ticket-quantity input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]), 
 	html .cmsmasters_color_scheme_third .event_tickets td, 
 	html .cmsmasters_color_scheme_third .tickera_table td {
-		background-color:#000000;
+		background-color:#677173;
 	}
 	/* Finish Main Background Color */
 	

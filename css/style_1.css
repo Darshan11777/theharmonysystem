@@ -1394,7 +1394,7 @@ img.alignnone {
 /* Pixel Arrow Global Styles */
 .cmsmasters_prev_arrow_pixel,
 .cmsmasters_next_arrow_pixel {
-  background: #000000;
+  background: #677173;
   width: 1px;
   height: 1px;
   margin: auto !important;
@@ -1467,7 +1467,7 @@ img.alignnone {
 }
 .cmsmasters_top_arrow_pixel,
 .cmsmasters_bot_arrow_pixel {
-  background: #000000;
+  background: #677173;
   width: 1px;
   height: 1px;
   margin: auto !important;
